@@ -91,7 +91,7 @@ STEPS TO INSTALL :
 
 Step 1 : Clone Repository
 
-git clone https://github.com/namah25bai10235-rgb/Pathfinding-Visualizer.git cd pathfinding-visualizer
+git clone https://github.com/mehulsingh154-art/path-finding---visualizer/edit/main/README.md
 
 Step 2 : Install Dependencies
 
